@@ -1,2 +1,5 @@
-# security
-Security policy, responsible disclosure, and vulnerability reporting for Proscan.
+# Proscan Security
+
+This repository contains the security policy and vulnerability disclosure process for Proscan.
+
+- [Security Policy](SECURITY.md)
